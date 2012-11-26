@@ -1,5 +1,5 @@
 module Rack
-  class Chromeframe
+  class ChromeFrame
 
     def initialize(app, options={})
       @app = app

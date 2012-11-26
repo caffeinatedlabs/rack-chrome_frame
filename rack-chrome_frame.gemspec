@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
-  gem.name          = "rack-chromeframe"
+  gem.name          = "rack-chrome_frame"
   gem.version       = "0.0.1"
   gem.authors       = ["Nate Berkopec"]
   gem.email         = ["nate.berkopec@gmail.com"]

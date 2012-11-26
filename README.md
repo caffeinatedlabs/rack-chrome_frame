@@ -1,4 +1,4 @@
-# Rack::Chromeframe
+# Rack::ChromeFrame
 
 A Rack middleware for inserting a Chrome Frame install prompt for requests made
 by Internet Explorer.
@@ -7,7 +7,7 @@ by Internet Explorer.
 
 Add this line to your application's Gemfile:
 
-    gem 'rack-chromeframe', :require => 'rack/chromeframe'
+    gem 'rack-chrome_frame', :require => 'rack/chrome_frame'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rack-chromeframe
+    $ gem install rack-chrome_frame
 
 ## Usage
 
