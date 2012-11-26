@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["nate.berkopec@gmail.com"]
   gem.description   = 'Insert a Chrome Frame install prompt for IE requests'
   gem.summary       = 'Insert a Chrome Frame install prompt for IE requests'
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/caffeinatedlabs/rack-chrome_frame"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
