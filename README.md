@@ -21,7 +21,11 @@ Or install it yourself as:
 
 ## Usage
 
-Just install and go.
+Rails
+
+```ruby
+  config.middleware.use(Rack::ChromeFrame)
+```
 
 ## TODO
 
