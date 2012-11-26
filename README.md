@@ -3,6 +3,8 @@
 A Rack middleware for inserting a Chrome Frame install prompt for requests made
 by Internet Explorer.
 
+This project is a modification of the original, unmaintained [rack-chromeframe](https://github.com/sunlightlabs/rack-chromeframe).
+
 ## Installation
 
 Add this line to your application's Gemfile:
