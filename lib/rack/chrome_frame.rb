@@ -23,7 +23,7 @@ module Rack
       HEAD
       
       bod = <<-BOD
-      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+      <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
       <div id="cf-placeholder"></div>
       <script>CFInstall.check({node: "cf-placeholder"});</script>
       BOD
