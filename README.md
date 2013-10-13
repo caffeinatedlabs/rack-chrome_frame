@@ -31,7 +31,7 @@ Rails
 
 * IE version configuration - only display the prompt if IE version matches the config.
 * Less obtrusive configuration - do not completely disable the site, make less obtrusive
-* Tests
+* Support rack apps whose responses don't respond to #body
 
 ## Contributing
 
