@@ -1,5 +1,7 @@
 # Rack::ChromeFrame
 
+[![Build Status](https://travis-ci.org/caffeinatedlabs/rack-chrome_frame.png?branch=master)](https://travis-ci.org/caffeinatedlabs/rack-chrome_frame)
+
 A Rack middleware for inserting a Chrome Frame install prompt for requests made
 by Internet Explorer.
 
